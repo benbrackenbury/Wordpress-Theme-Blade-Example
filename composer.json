@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ExampleTheme\\": "src/"
+        }
+    },
+    "require": {
+        "eftec/bladeone": "^4.19"
+    }
+}
